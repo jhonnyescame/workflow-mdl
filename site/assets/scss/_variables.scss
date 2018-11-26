@@ -1,0 +1,22 @@
+$corMenu: #FEFEA0;
+$bgFormulario: #5e0025;
+$bgInfo: #26eaa4;
+$bgBigNumber: #fefea4;
+$bgHomePreEvento: #ffffff;
+$corFooter: #000000;
+
+
+//http://breakpoint-sass.com/
+$iphone5: max-width 320px;
+$celular: max-width 479px;
+$paisagem: max-width 768px;
+$tablet: max-width 991px;
+$desktop: max-width 1150px;
+
+
+
+// @include breakpoint($tablet){
+// }
+
+// @include breakpoint($celular){
+// } 

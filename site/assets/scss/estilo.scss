@@ -1,0 +1,58 @@
+// @import "../../../node_modules/getmdl-select/src/scss/getmdl-select";
+
+ @import "../../../node_modules/material-design-lite/src/material-design-lite-grid";
+ @import "../../../node_modules/material-design-lite/src/grid/grid";
+ @import "../../../node_modules/material-design-lite/src/material-design-lite";
+ @import "../../../node_modules/material-design-lite/src/variables";
+ @import "../../../node_modules/material-design-lite/src/mixins";
+ @import "../../../node_modules/material-design-lite/src/color-definitions";
+ @import "../../../node_modules/material-design-lite/src/functions";
+
+// POS HEADER //
+@import "variables";
+
+
+
+.header-bg{
+	background-color: #c0c0c0;
+	@extend .mdl-grid;
+	.header{
+		@extend .mdl-cell--6-col;
+	}
+}
+
+<section class="">
+	<div class="">
+		<div class="box">
+
+.conteudo-bg{
+	
+	.conteudo-grid{
+
+		.box{
+
+		}
+	}
+
+}
+
+.conteudo{
+	background-color: #E9E9E9;
+	.box-conteudo{
+
+		#logo{
+			position: relative;
+			padding: 10px;
+			text-align:center;
+			width:170px;
+			height: 220px;
+			margin: 0 auto;
+			img{
+				width:100%;
+			}
+		}
+		h2{
+			text-align: center;
+		}
+	}
+}
